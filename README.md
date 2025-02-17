@@ -3,4 +3,4 @@
 
 ![projeto-jokker](https://github.com/gabrieloliveira-hub/projeto-joker/assets/109983952/39e56a91-9415-4bb1-8b65-e825dae5ddc6)
 
-Acesse o projeto funcionando <a href="https://gabrieloliveira-hub.github.io/projeto-joker/" target="_blank">aqui</a>
+Acesse o projeto funcionando <a href="https://garibell.github.io/projeto-joker/" target="_blank">aqui</a>
